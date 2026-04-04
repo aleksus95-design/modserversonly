@@ -11,6 +11,18 @@
       "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38120866",
       "server_source": "modded",
       "status": "modded"
+    },
+    {
+      "name": "556纯PVE带萌新欢迎大家来玩~有什么需求和服主说尽量满足",
+      "connect_address": "202.189.23.117:7053",
+      "country": "CN",
+      "description": "",
+      "owner": "",
+      "repo": "",
+      "branch": "main",
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38535839",
+      "server_source": "modded",
+      "status": "modded"
     }
   ]
 }
