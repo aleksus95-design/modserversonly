@@ -1,0 +1,16 @@
+{
+  "servers": [
+    {
+      "name": "江江测试服",
+      "connect_address": "202.189.11.94:6789",
+      "country": "CN",
+      "description": "",
+      "owner": "",
+      "repo": "",
+      "branch": "main",
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38120866",
+      "server_source": "modded",
+      "status": "modded"
+    }
+  ]
+}
