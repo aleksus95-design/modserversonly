@@ -16,7 +16,7 @@
       "max_players": 128,
       "rank": 1,
       "version": "0.514.538.3646947328",
-      "time": "01:60",
+      "time": "05:51",
       "ping": 74
     },
     {
@@ -31,12 +31,31 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 26,
+      "players": 87,
       "max_players": 128,
       "rank": 204,
       "version": "0.514.538.3646947328",
-      "time": "07:32",
+      "time": "16:35",
       "ping": 74
+    },
+    {
+      "name": "The Badlands • Botshop • PvP • Loot x3 • Skills x10",
+      "connect_address": "37.187.254.17:7779",
+      "country": "FR",
+      "description": "",
+      "owner": "",
+      "repo": "",
+      "branch": "main",
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/35982611",
+      "server_source": "modded",
+      "status": "online",
+      "official": false,
+      "players": 77,
+      "max_players": 128,
+      "rank": 5,
+      "version": "0.514.538.3646947328",
+      "time": "12:49",
+      "ping": 13
     }
   ]
 }
