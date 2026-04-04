@@ -4,13 +4,20 @@
       "name": "江江测试服",
       "connect_address": "202.189.11.94:6789",
       "country": "CN",
-      "description": "",
+      "description": "Хуевый сервер",
       "owner": "",
       "repo": "",
       "branch": "main",
       "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38120866",
       "server_source": "modded",
-      "status": "modded"
+      "status": "online",
+      "official": false,
+      "players": 127,
+      "max_players": 128,
+      "rank": 1,
+      "version": "0.514.538.3646947328",
+      "time": "01:60",
+      "ping": 74
     },
     {
       "name": "556纯PVE带萌新欢迎大家来玩~有什么需求和服主说尽量满足",
@@ -22,7 +29,14 @@
       "branch": "main",
       "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38535839",
       "server_source": "modded",
-      "status": "modded"
+      "status": "online",
+      "official": false,
+      "players": 26,
+      "max_players": 128,
+      "rank": 204,
+      "version": "0.514.538.3646947328",
+      "time": "07:32",
+      "ping": 74
     }
   ]
 }
