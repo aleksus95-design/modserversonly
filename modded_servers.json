@@ -16,8 +16,8 @@
       "max_players": 128,
       "rank": 1,
       "version": "0.514.538.3646947328",
-      "time": "05:51",
-      "ping": 74
+      "time": "23:04",
+      "ping": 92
     },
     {
       "name": "556纯PVE带萌新欢迎大家来玩~有什么需求和服主说尽量满足",
@@ -31,12 +31,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 87,
+      "players": 25,
       "max_players": 128,
-      "rank": 204,
+      "rank": 42,
       "version": "0.514.538.3646947328",
-      "time": "16:35",
-      "ping": 74
+      "time": "01:17",
+      "ping": 92
     },
     {
       "name": "The Badlands • Botshop • PvP • Loot x3 • Skills x10",
@@ -50,12 +50,31 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 77,
+      "players": 98,
       "max_players": 128,
-      "rank": 5,
+      "rank": 12,
       "version": "0.514.538.3646947328",
-      "time": "12:49",
-      "ping": 13
+      "time": "00:21",
+      "ping": 158
+    },
+    {
+      "name": "WILD-4C7B5481 SCUM Server",
+      "connect_address": "109.248.4.59:7008",
+      "country": "RU",
+      "description": "",
+      "owner": "",
+      "repo": "",
+      "branch": "main",
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/35744864",
+      "server_source": "modded",
+      "status": "online",
+      "official": false,
+      "players": 0,
+      "max_players": 128,
+      "rank": 3890,
+      "version": "0.514.538.3646947328",
+      "time": "22:56",
+      "ping": 23
     }
   ]
 }
