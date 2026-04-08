@@ -20,25 +20,6 @@
       "ping": 79
     },
     {
-      "name": "The Badlands • Botshop • PvP • Loot x3 • Skills x10",
-      "connect_address": "37.187.254.17:7779",
-      "country": "FR",
-      "description": "",
-      "owner": "",
-      "repo": "",
-      "branch": "main",
-      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/35982611",
-      "server_source": "modded",
-      "status": "online",
-      "official": false,
-      "players": 128,
-      "max_players": 128,
-      "rank": 12,
-      "version": "0.514.538.3646947328",
-      "time": "00:16",
-      "ping": 21
-    },
-    {
       "name": "WILD-4C7B5481 SCUM Server",
       "connect_address": "109.248.4.59:7008",
       "country": "RU",
