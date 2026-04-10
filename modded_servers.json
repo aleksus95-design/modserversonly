@@ -13,6 +13,11 @@
           "owner": "aleksus95-design",
           "repo": "virtualfighter",
           "branch": "main"
+        },
+        {
+          "owner": "aleksus95-design",
+          "repo": "musicscum",
+          "branch": "main"
         }
       ],
       "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/35744864",
@@ -23,7 +28,8 @@
       "max_players": 128,
       "rank": 4397,
       "version": "0.514.538.3646947328",
-      "time": "17:38"
+      "time": "17:38",
+      "ping": 25
     }
   ]
 }
