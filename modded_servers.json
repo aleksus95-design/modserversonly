@@ -23,8 +23,8 @@
       "max_players": 128,
       "rank": 4803,
       "version": "0.514.538.3646947328",
-      "time": "14:38",
-      "ping": 95
+      "time": "17:31",
+      "ping": 151
     },
     {
       "name": "Amurka_PVE_MOD",
@@ -45,12 +45,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 6,
+      "players": 7,
       "max_players": 30,
       "rank": 311,
       "version": "0.514.538.3646947328",
-      "time": "22:18",
-      "ping": 5
+      "time": "01:24",
+      "ping": 17
     }
   ]
 }
