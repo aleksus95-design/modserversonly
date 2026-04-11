@@ -24,33 +24,7 @@
       "rank": 4803,
       "version": "0.514.538.3646947328",
       "time": "07:54",
-      "ping": 20
-    },
-    {
-      "name": "Amurka_PVE_MOD",
-      "connect_address": "85.88.179.207:2828",
-      "country": "RU",
-      "description": "",
-      "owner": "tolyan28rus",
-      "repo": "amurka_mods",
-      "branch": "main",
-      "mod_repositories": [
-        {
-          "owner": "tolyan28rus",
-          "repo": "amurka_mods",
-          "branch": "main"
-        }
-      ],
-      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/35413040",
-      "server_source": "modded",
-      "status": "online",
-      "official": false,
-      "players": 3,
-      "max_players": 30,
-      "rank": 311,
-      "version": "0.514.538.3646947328",
-      "time": "16:07",
-      "ping": 13
+      "ping": 19
     }
   ]
 }
