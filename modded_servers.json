@@ -24,7 +24,33 @@
       "rank": 311,
       "version": "0.514.538.3646947328",
       "time": "00:58",
-      "ping": 17
+      "ping": 23
+    },
+    {
+      "name": "WILD-4C7B5481 SCUM Server",
+      "connect_address": "109.248.4.59:7008",
+      "country": "RU",
+      "description": "",
+      "owner": "aleksus95-design",
+      "repo": "mapscum",
+      "branch": "main",
+      "mod_repositories": [
+        {
+          "owner": "aleksus95-design",
+          "repo": "mapscum",
+          "branch": "main"
+        }
+      ],
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/35744864",
+      "server_source": "modded",
+      "status": "online",
+      "official": false,
+      "players": 0,
+      "max_players": 128,
+      "rank": 4803,
+      "version": "0.514.538.3646947328",
+      "time": "17:40",
+      "ping": 10
     }
   ]
 }
