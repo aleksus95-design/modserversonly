@@ -19,12 +19,38 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 1,
+      "players": 3,
       "max_players": 30,
-      "rank": 311,
+      "rank": 326,
       "version": "0.514.538.3646947328",
-      "time": "00:58",
-      "ping": 23
+      "time": "20:40",
+      "ping": 58
+    },
+    {
+      "name": "WL-2N55-AEQ",
+      "connect_address": "195.18.27.210:7002",
+      "country": "RU",
+      "description": "",
+      "owner": "RescuerLoD",
+      "repo": "Mods",
+      "branch": "main",
+      "mod_repositories": [
+        {
+          "owner": "RescuerLoD",
+          "repo": "Mods",
+          "branch": "main"
+        }
+      ],
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/37995298",
+      "server_source": "modded",
+      "status": "online",
+      "official": false,
+      "players": 1,
+      "max_players": 50,
+      "rank": 773,
+      "version": "0.514.538.3646947328",
+      "time": "20:15",
+      "ping": 116
     }
   ]
 }
