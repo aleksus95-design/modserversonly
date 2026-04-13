@@ -19,12 +19,11 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 3,
+      "players": 6,
       "max_players": 50,
       "rank": 655,
       "version": "0.514.538.3646947328",
-      "time": "23:15",
-      "ping": 102
+      "time": "09:05"
     },
     {
       "name": "WL-4EV6-ZKG AMURKA_2.0_PVE_MOD",
@@ -45,12 +44,38 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 6,
+      "players": 3,
       "max_players": 50,
       "rank": 871,
       "version": "0.514.538.3646947328",
-      "time": "03:50",
+      "time": "13:47",
       "ping": 56
+    },
+    {
+      "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
+      "connect_address": "185.207.214.87:7002",
+      "country": "RU",
+      "description": "",
+      "owner": "BAAL666777",
+      "repo": "Mods",
+      "branch": "main",
+      "mod_repositories": [
+        {
+          "owner": "BAAL666777",
+          "repo": "Mods",
+          "branch": "main"
+        }
+      ],
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/36217923",
+      "server_source": "modded",
+      "status": "online",
+      "official": false,
+      "players": 6,
+      "max_players": 50,
+      "rank": 374,
+      "version": "0.514.538.3646947328",
+      "time": "23:41",
+      "ping": 32
     }
   ]
 }
