@@ -6,12 +6,12 @@
       "country": "RU",
       "description": "",
       "owner": "RescuerLoD",
-      "repo": "Mods",
+      "repo": "Mod",
       "branch": "main",
       "mod_repositories": [
         {
           "owner": "RescuerLoD",
-          "repo": "Mods",
+          "repo": "Mod",
           "branch": "main"
         }
       ],
@@ -23,8 +23,8 @@
       "max_players": 50,
       "rank": 655,
       "version": "0.514.538.3646947328",
-      "time": "22:35",
-      "ping": 134
+      "time": "00:19",
+      "ping": 53
     },
     {
       "name": "WL-4EV6-ZKG AMURKA_2.0_PVE_MOD",
@@ -45,12 +45,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 2,
+      "players": 4,
       "max_players": 50,
       "rank": 871,
       "version": "0.514.538.3646947328",
-      "time": "02:36",
-      "ping": 61
+      "time": "04:23",
+      "ping": 39
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -75,8 +75,8 @@
       "max_players": 50,
       "rank": 374,
       "version": "0.514.538.3646947328",
-      "time": "14:50",
-      "ping": 125
+      "time": "16:30",
+      "ping": 50
     }
   ]
 }
