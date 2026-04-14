@@ -19,12 +19,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 3,
+      "players": 0,
       "max_players": 50,
       "rank": 655,
       "version": "0.514.538.3646947328",
-      "time": "19:37",
-      "ping": 32
+      "time": "21:18",
+      "ping": 134
     },
     {
       "name": "WL-4EV6-ZKG AMURKA_2.0_PVE_MOD",
@@ -45,12 +45,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 6,
+      "players": 3,
       "max_players": 50,
       "rank": 871,
       "version": "0.514.538.3646947328",
-      "time": "00:02",
-      "ping": 28
+      "time": "01:30",
+      "ping": 61
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -71,12 +71,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 3,
+      "players": 1,
       "max_players": 50,
       "rank": 374,
       "version": "0.514.538.3646947328",
-      "time": "11:01",
-      "ping": 39
+      "time": "13:29",
+      "ping": 125
     }
   ]
 }
