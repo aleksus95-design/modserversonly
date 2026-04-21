@@ -19,12 +19,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 2,
+      "players": 6,
       "max_players": 50,
       "rank": 387,
       "version": "0.514.538.3646947328",
-      "time": "19:16",
-      "ping": 77
+      "time": "08:40",
+      "ping": 158
     },
     {
       "name": "WL-4EV6-ZKG AMURKA_2.0_PVE_MOD",
@@ -45,7 +45,7 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "ping": 44
+      "ping": 23
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -70,8 +70,34 @@
       "max_players": 50,
       "rank": 685,
       "version": "0.514.538.3646947328",
-      "time": "18:06",
-      "ping": 75
+      "time": "08:18",
+      "ping": 151
+    },
+    {
+      "name": "WL-BGS3-GM4 AMURKA_2.0_PVE_MOD",
+      "connect_address": "109.248.4.14:7014",
+      "country": "RU",
+      "description": "",
+      "owner": "tolyan28rus",
+      "repo": "amurka-pve-mods",
+      "branch": "main",
+      "mod_repositories": [
+        {
+          "owner": "tolyan28rus",
+          "repo": "amurka-pve-mods",
+          "branch": "main"
+        }
+      ],
+      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38753941",
+      "server_source": "modded",
+      "status": "online",
+      "official": false,
+      "players": 5,
+      "max_players": 50,
+      "rank": 844,
+      "version": "0.514.538.3646947328",
+      "time": "12:49",
+      "ping": 94
     }
   ]
 }
