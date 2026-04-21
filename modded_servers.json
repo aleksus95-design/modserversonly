@@ -19,12 +19,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 6,
+      "players": 9,
       "max_players": 50,
       "rank": 387,
       "version": "0.514.538.3646947328",
-      "time": "08:40",
-      "ping": 158
+      "time": "09:26",
+      "ping": 42
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -45,12 +45,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 0,
+      "players": 5,
       "max_players": 50,
       "rank": 685,
       "version": "0.514.538.3646947328",
-      "time": "08:18",
-      "ping": 151
+      "time": "10:04",
+      "ping": 20
     },
     {
       "name": "WL-BGS3-GM4 AMURKA_2.0_PVE_MOD",
@@ -75,8 +75,8 @@
       "max_players": 50,
       "rank": 844,
       "version": "0.514.538.3646947328",
-      "time": "12:49",
-      "ping": 93
+      "time": "13:02",
+      "ping": 35
     }
   ]
 }
