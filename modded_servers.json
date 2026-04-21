@@ -27,27 +27,6 @@
       "ping": 158
     },
     {
-      "name": "WL-4EV6-ZKG AMURKA_2.0_PVE_MOD",
-      "connect_address": "185.133.40.100:7009",
-      "country": "RU",
-      "description": "",
-      "owner": "tolyan28rus",
-      "repo": "amurka_mods",
-      "branch": "main",
-      "mod_repositories": [
-        {
-          "owner": "tolyan28rus",
-          "repo": "amurka_mods",
-          "branch": "main"
-        }
-      ],
-      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38659949",
-      "server_source": "modded",
-      "status": "online",
-      "official": false,
-      "ping": 23
-    },
-    {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
       "connect_address": "185.207.214.87:7002",
       "country": "RU",
@@ -97,7 +76,7 @@
       "rank": 844,
       "version": "0.514.538.3646947328",
       "time": "12:49",
-      "ping": 94
+      "ping": 93
     }
   ]
 }
