@@ -19,12 +19,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 1,
+      "players": 2,
       "max_players": 50,
       "rank": 387,
       "version": "0.514.538.3646947328",
-      "time": "17:27",
-      "ping": 129
+      "time": "18:01",
+      "ping": 119
     },
     {
       "name": "WL-4EV6-ZKG AMURKA_2.0_PVE_MOD",
@@ -70,8 +70,8 @@
       "max_players": 50,
       "rank": 685,
       "version": "0.514.538.3646947328",
-      "time": "16:36",
-      "ping": 117
+      "time": "16:56",
+      "ping": 111
     }
   ]
 }
