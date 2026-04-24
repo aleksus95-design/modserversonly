@@ -19,12 +19,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 9,
+      "players": 0,
       "max_players": 50,
-      "rank": 387,
-      "version": "0.514.538.3646947328",
-      "time": "09:26",
-      "ping": 42
+      "rank": 362,
+      "version": "0.515.27.3135242240",
+      "time": "04:12",
+      "ping": 60
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -32,12 +32,12 @@
       "country": "RU",
       "description": "",
       "owner": "BAAL666777",
-      "repo": "Mods",
+      "repo": "Mods2.0",
       "branch": "main",
       "mod_repositories": [
         {
           "owner": "BAAL666777",
-          "repo": "Mods",
+          "repo": "Mods2.0",
           "branch": "main"
         }
       ],
@@ -45,11 +45,11 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 5,
+      "players": 2,
       "max_players": 50,
-      "rank": 685,
-      "version": "0.514.538.3646947328",
-      "time": "10:04",
+      "rank": 518,
+      "version": "0.515.27.3135242240",
+      "time": "12:12",
       "ping": 20
     },
     {
@@ -71,12 +71,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 5,
+      "players": 6,
       "max_players": 50,
-      "rank": 844,
-      "version": "0.514.538.3646947328",
-      "time": "13:02",
-      "ping": 35
+      "rank": 430,
+      "version": "0.515.27.3135242240",
+      "time": "10:09",
+      "ping": 20
     }
   ]
 }
