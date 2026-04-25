@@ -19,11 +19,11 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 2,
+      "players": 3,
       "max_players": 50,
       "rank": 367,
       "version": "0.515.27.3135242240",
-      "time": "07:31",
+      "time": "08:36",
       "ping": 54
     },
     {
@@ -45,11 +45,11 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 1,
+      "players": 3,
       "max_players": 50,
       "rank": 463,
       "version": "0.515.27.3135242240",
-      "time": "22:12",
+      "time": "23:39",
       "ping": 92
     },
     {
@@ -71,11 +71,11 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 7,
+      "players": 8,
       "max_players": 50,
       "rank": 382,
       "version": "0.515.27.3135242240",
-      "time": "15:24",
+      "time": "16:52",
       "ping": 59
     }
   ]
