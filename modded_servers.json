@@ -19,12 +19,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 4,
+      "players": 1,
       "max_players": 50,
       "rank": 367,
       "version": "0.515.27.3135242240",
-      "time": "15:56",
-      "ping": 63
+      "time": "20:47",
+      "ping": 48
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -32,12 +32,12 @@
       "country": "RU",
       "description": "",
       "owner": "BAAL666777",
-      "repo": "Mods2",
+      "repo": "Mods2.0",
       "branch": "main",
       "mod_repositories": [
         {
           "owner": "BAAL666777",
-          "repo": "Mods2",
+          "repo": "Mods2.0",
           "branch": "main"
         }
       ],
@@ -45,12 +45,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 1,
+      "players": 9,
       "max_players": 50,
       "rank": 463,
       "version": "0.515.27.3135242240",
-      "time": "07:53",
-      "ping": 34
+      "time": "13:15",
+      "ping": 53
     },
     {
       "name": "WL-BGS3-GM4 AMURKA_2.0_PVE_MOD",
@@ -75,7 +75,7 @@
       "max_players": 50,
       "rank": 382,
       "version": "0.515.27.3135242240",
-      "time": "23:16",
+      "time": "04:07",
       "ping": 20
     },
     {
