@@ -19,11 +19,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "players": 4,
+      "players": 0,
       "max_players": 50,
-      "rank": 361,
+      "rank": 406,
       "version": "0.515.540.875560960",
-      "time": "08:59"
+      "time": "06:19",
+      "ping": 174
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -44,33 +45,12 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "ping": -1
-    },
-    {
-      "name": "WL-BGS3-GM4 AMURKA_2.0_PVE_MOD",
-      "connect_address": "109.248.4.14:7014",
-      "country": "RU",
-      "description": "",
-      "owner": "tolyan28rus",
-      "repo": "amurka-pve-mods",
-      "branch": "main",
-      "mod_repositories": [
-        {
-          "owner": "tolyan28rus",
-          "repo": "amurka-pve-mods",
-          "branch": "main"
-        }
-      ],
-      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/38753941",
-      "server_source": "modded",
-      "status": "online",
-      "official": false,
-      "players": 3,
+      "players": 1,
       "max_players": 50,
-      "rank": 282,
+      "rank": 420,
       "version": "0.515.540.875560960",
-      "time": "21:16",
-      "ping": 118
+      "time": "23:43",
+      "ping": 115
     },
     {
       "name": "AMURKA_2.0_PVE_MOD",
@@ -93,10 +73,10 @@
       "official": false,
       "players": 0,
       "max_players": 50,
-      "rank": 3294,
+      "rank": 3281,
       "version": "0.515.540.875560960",
-      "time": "00:50",
-      "ping": 82
+      "time": "14:09",
+      "ping": 53
     },
     {
       "name": "PanikA_PvE / Chill / Loot x8 WL-RE8C-VRX",
@@ -119,10 +99,10 @@
       "official": false,
       "players": 0,
       "max_players": 40,
-      "rank": 749,
+      "rank": 759,
       "version": "0.515.540.875560960",
-      "time": "17:53",
-      "ping": 67
+      "time": "06:10",
+      "ping": 105
     }
   ]
 }
