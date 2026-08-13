@@ -24,7 +24,7 @@
       "rank": 507,
       "version": "0.768.541.416284672",
       "time": "20:19",
-      "ping": 41
+      "ping": 62
     },
     {
       "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
@@ -50,7 +50,7 @@
       "rank": 989,
       "version": "0.768.541.416284672",
       "time": "07:10",
-      "ping": 30
+      "ping": 114
     },
     {
       "name": "AMURKA_2.0_PVE_MOD",
@@ -71,7 +71,7 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "ping": -1
+      "ping": 13
     },
     {
       "name": "PanikA_PvE / Chill / Loot x8 WL-RE8C-VRX",
@@ -92,7 +92,7 @@
       "server_source": "modded",
       "status": "online",
       "official": false,
-      "ping": -1
+      "ping": 13
     }
   ]
 }
