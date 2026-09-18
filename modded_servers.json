@@ -24,33 +24,7 @@
       "rank": 507,
       "version": "0.768.541.416284672",
       "time": "20:19",
-      "ping": 62
-    },
-    {
-      "name": "WelcomeToHell [RUPVE] [HARD Zombi] [X1Loot] [Quest] [Mods]",
-      "connect_address": "185.207.214.87:7002",
-      "country": "RU",
-      "description": "",
-      "owner": "BAAL666777",
-      "repo": "WTHModPack",
-      "branch": "main",
-      "mod_repositories": [
-        {
-          "owner": "BAAL666777",
-          "repo": "WTHModPack",
-          "branch": "main"
-        }
-      ],
-      "battlemetrics_url": "https://www.battlemetrics.com/servers/scum/36217923",
-      "server_source": "modded",
-      "status": "online",
-      "official": false,
-      "players": 6,
-      "max_players": 50,
-      "rank": 989,
-      "version": "0.768.541.416284672",
-      "time": "07:10",
-      "ping": 114
+      "ping": 107
     },
     {
       "name": "AMURKA_2.0_PVE_MOD",
